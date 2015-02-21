@@ -1,1 +1,1 @@
-PRIVATE_DIRS=../private-packages meteor --settings config/development.json
+PACKAGE_DIRS=../private-packages meteor --settings config/development.json

@@ -14,10 +14,10 @@ Package.onUse(function(api) {
 
   api.versionsFrom('1.0.3.1');
 
-  api.use('iron:router@1.0');
+  api.use('iron:router@1.0.0');
   api.imply('iron:router');
 
-  api.addFiles('both/app.js');
+  api.addFiles('lib/app.js');
 
   api.export('App');
 

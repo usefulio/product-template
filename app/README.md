@@ -1,6 +1,6 @@
 App is the main application that customers of this product will be using. E.g. it's the www.product.com app.
 
-The reason it's not named "www" is because currently (as of Meteor 1.0.3.1 and below) the meteor mobile build system has issue that prevents the mobile build from completing when the top-level meteor project folder is named "www".
+The reason it's not named "www" is because currently (as of Meteor 1.0.3.2 and below) the meteor mobile build system has issue that prevents the mobile build from completing when the top-level meteor project folder is named "www".
 
 So... it's "app". Feel free to rename to something more descriptive for your project if desired. Remember to change the name in the top-level start and deploy folders as well as this project's start and deploy files if you do rename it.
 

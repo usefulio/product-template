@@ -2,3 +2,4 @@ The services app typically hosts external apis or is responsible for recurring j
 
 ./start is a bash script with the instructions to properly run this application locally
 ./deploy is a bash script with the instructions to properly deploy this application
+./m is a shortcut for running meteor commands related to packages that will succeed because the PACKAGE_DIRS environment variable is set.

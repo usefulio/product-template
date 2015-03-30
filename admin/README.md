@@ -8,3 +8,4 @@ More sensitive code is not even available on the client or server of the main cu
 
 ./start is a bash script with the instructions to properly run this application locally
 ./deploy is a bash script with the instructions to properly deploy this application
+./m is a shortcut for running meteor commands related to packages that will succeed because the PACKAGE_DIRS environment variable is set.
